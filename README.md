@@ -4,8 +4,8 @@
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [shirin.shahabinejad@gmail.com](mailto:shirin.shahabinejad@gmail.com)
-* 🚀  I'm currently working on [Verifiable inference](http://inferencelabs.com/)
-* 🧠  I'm learning LLM Reasoning and Inference Protocols
+* 🚀  I'm currently working on [Security in AI Systems and Verifiable inference](http://inferencelabs.com/)
+* 🧠  I'm learning Inference Protocols,  Privacy-Preserving AI, LLM Reasoning
 * 🤝  I'm open to collaborating on AI Agents, Verifiable Inference, Post-training Optimization and Reinforcement Learning
 * 💼  4+ years of experience across Finance and Tech industries
 
@@ -32,7 +32,7 @@
 
 #### [Inference Labs](https://github.com/inference-labs-inc) - Verifiable AI & LLMs
 - **Verifiable AI Agent** - Developed the first Verifiable AI Agent by reducing overhead from 1000x to 8x
-- **Model-Agnostic Proof System** - Designed a scalable proof of inference system leveraging Agentic testing and Probabilistic proofs with no computational overhead
+- **Model-Agnostic Proof System** - Designed a scalable proof of inference system leveraging Agentic testing and Probabilistic proofs with no computational overhead using JIT Design pattern and Redis Caching system.
 - **LLM Optimization** - Led model optimization initiatives for faster inference and smaller footprint models
 - **RLHF-Based Ranking** - Implemented sophisticated ranking profiles using Reinforcement Learning with Human Feedback (RLHF) and Group Relative Policy Optimization (GRPO)
 
