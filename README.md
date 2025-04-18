@@ -1,8 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shirin Shahabi
-======================================================================================================================================
-
+=============
 ## AI Engineer | Finance & Tech Industries
------------
+-------------
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [shirin.shahabinejad@gmail.com](mailto:shirin.shahabinejad@gmail.com)
@@ -56,4 +55,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shirin-shahabi"><img src="https://github-readme-stats.vercel.app/api?username=shirin-shahabi&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=001f3f&hide_border=true&show_icons=true" alt="shirin-shahabi's GitHub stats" /></a>
+<a href="http://www.github.com/shirin-shahabi"><img src="https://github-readme-stats.vercel.app/api?username=shirin-shahabi&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=306998&bg_color=001f3f&hide_border=true&show_icons=true" alt="shirin-shahabi's GitHub stats" /></a>
