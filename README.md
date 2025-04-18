@@ -1,10 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shirin Shahabi
 ======================================================================================================================================
-
-<img src="https://raw.githubusercontent.com/shirin-shahabi/shirin-shahabi/main/header-image.png" alt="Shirin Shahabi - AI Engineer" width="100%"/>
-
 AI Engineer | Finance & Tech Industries
------------
+
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [shirin.shahabinejad@gmail.com](mailto:shirin.shahabinejad@gmail.com)
