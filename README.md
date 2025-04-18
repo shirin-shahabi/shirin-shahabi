@@ -38,7 +38,7 @@
 #### [Nobitex](https://github.com/nobitex) - Data Science & Finance
 - **Customer Clustering at Scale** - Developed scalable, ensemble tree-based algorithm leveraging Spark for processing 4M+ customer transactions, driving MAU growth to 8.5M within one year
 - **Chain Fraud Detection Dashboard** - Built real-time pipeline and analytics dashboard for blockchain transaction monitoring
-- **Marketing Data Pipeline** - Led cross-team collaboration to design an end-to-end Marketing Data Modeling Pipeline with comprehensive ERD design
+- **Marketing Data Pipeline** - Led cross-team collaboration to design an end-to-end Marketing Data Modeling ETL Pipeline with ERD system design
 
 #### [SnappMarket](https://github.com/snappmarket) - Retail Tech & Optimization
 - **Autonomous Inventory System** - Developed scalable inventory reordering system for 15 hypermarkets with +8,000 SKUs
