@@ -5,7 +5,7 @@
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [shirin.shahabinejad@gmail.com](mailto:shirin.shahabinejad@gmail.com)
 * 🚀  I'm currently working on [Security in AI Systems and Verifiable inference](http://inferencelabs.com/)
-* 🧠  I'm learning Inference Protocols,  Privacy-Preserving AI, LLM Reasoning
+* 🧠  I'm learning AI Agent Inference Protocols, LLM Reasoning, Continuous Self-Improvement
 * 🤝  I'm open to collaborating on AI Agents, Verifiable Inference, Post-training Optimization and Reinforcement Learning
 * 💼  4+ years of experience across Finance and Tech industries
 
