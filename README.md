@@ -1,12 +1,13 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shirin Shahabi
-## AI Engineer | Finance & Tech Industries
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Shirin Shahabi.
 
-* 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [shirin.shahabinejad@gmail.com](mailto:shirin.shahabinejad@gmail.com)
-* 🚀  I'm currently working on [Security in AI Systems and Verifiable Inference](http://inferencelabs.com/)
-* 🤝  I'm open to collaborating on AI Agents, Verifiable Inference, Post-training Optimization and Reinforcement Learning
-* 💼  4+ years of experience across Finance and Tech industries
-* 🧠  I'm learning AI Agent Inference Protocols, LLM Reasoning, Continuous Self-Improvement
+## ML Researcher and Developer in Financial & Tech Industries
+
+ I'm based in Toronto, Canada and You can contact me at [shirin.shahabinejad@gmail.com](mailto:shirin.shahabinejad@gmail.com). An ML researcher and developer experienced in designing and implementing scalable machine learning solutions, with a particular enthusiasm for reinforcement learning and verifiable inference.
+
+Currently, I’m advancing AI product development at [Inference Labs](http://inferencelabs.com/), and I hold an MSc in CS from [McMaster University](https://www.mcmaster.ca/).
+
+Open to collaborations on: AI Agents, Verifiable Inference, Post-training Optimization, Reinforcement Learning.
+
 
 ### Skills
 
@@ -17,6 +18,7 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="Hugging Face" /></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" height="36" alt="Apache Spark" /></a>
+<a href="https://onnx.ai/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-ar21.svg" width="36" height="36" alt="ONNX" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -27,13 +29,12 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>
 </p>
 
-### Featured Projects
+### Notable Industry Projects
 
-#### [Inference Labs](https://github.com/inference-labs-inc) - Verifiable AI & LLMs
+#### [Inference Labs](https://github.com/inference-labs-inc) - Distributed & Verifiable AI
 - **Verifiable AI Agent** - Developed the first Verifiable AI Agent by reducing overhead from 1000x to 8x
 - **Model-Agnostic Proof System** - Designed a scalable proof of inference system leveraging Agentic testing and Probabilistic proofs with no computational overhead using JIT Design pattern and Redis Caching system.
-- **LLM Optimization** - Led model optimization initiatives for faster inference and smaller footprint models
-- **RLHF-Based Ranking** - Implemented sophisticated ranking profiles using Reinforcement Learning with Human Feedback (RLHF) and Group Relative Policy Optimization (GRPO)
+- **DPO-Based Ranking** - Implemented sophisticated ranking profiles using Reinforcement Learning  and Group Relative Policy Optimization (GRPO)
 
 #### [Nobitex](https://github.com/nobitex) - Data Science & Finance
 - **Customer Clustering at Scale** - Developed scalable, ensemble tree-based algorithm leveraging Spark for processing 4M+ customer transactions, driving MAU growth to 8.5M within one year
