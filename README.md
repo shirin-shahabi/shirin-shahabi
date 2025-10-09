@@ -1,12 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Shirin Shahabi.
 
-## ML Researcher and Developer in Financial & Tech Industries
 
- I'm based in Toronto, Canada and You can contact me at [shirin.shahabinejad@gmail.com](mailto:shirin.shahabinejad@gmail.com). An ML researcher and developer experienced in designing and implementing scalable machine learning solutions, with a particular enthusiasm for reinforcement learning and verifiable inference.
+ An ML researcher and developer with over 4 years of industry experience in designing and implementing scalable machine learning solutions in **Financial & Tech Industries**, with a particular enthusiasm for **reinforcement learning** and verifiable inference.  I'm based in Toronto, Canada and You can contact me at [shirin.shahabinejad@gmail.com](mailto:shirin.shahabinejad@gmail.com).
 
-Currently, I’m advancing AI product development at [Inference Labs](http://inferencelabs.com/), and I hold an MSc in CS from [McMaster University](https://www.mcmaster.ca/).
-
-Open to collaborations on: AI Agents, Verifiable Inference, Post-training Optimization, Reinforcement Learning.
+Currently, I’m advancing **AI product development,Scaling our innovative Verification Pipeline and distributed Inference** at [Inference Labs](http://inferencelabs.com/), I hold an MSc in CS from [McMaster University](https://www.mcmaster.ca/) with my thesis on advancing stochastic optimization leveraging hierarchical reinforcement learning.
 
 
 ### Skills
@@ -32,19 +29,21 @@ Open to collaborations on: AI Agents, Verifiable Inference, Post-training Optimi
 ### Notable Industry Projects
 
 #### [Inference Labs](https://github.com/inference-labs-inc) - Distributed & Verifiable AI
-- **Verifiable AI Agent** - Developed the first Verifiable AI Agent by reducing overhead from 1000x to 8x
-- **Model-Agnostic Proof System** - Designed a scalable proof of inference system leveraging Agentic testing and Probabilistic proofs with no computational overhead using JIT Design pattern and Redis Caching system.
-- **DPO-Based Ranking** - Implemented sophisticated ranking profiles using Reinforcement Learning  and Group Relative Policy Optimization (GRPO)
+- **Distributed Proving Framework** - Contributed as a core researcher to DSperse - opensource framework for distribued, verifiable inference.
+- **Quantization and Posttraining** - Contributed to an opensource ZK toolkit for quantization and post-training methods. 
+- **Verifiable AI Agent** - Developed the first verifiable Doom agent, reducing overhead from 1000x to 8x.
+- **Modular Proving Framework** - Designed a scalable proof-of-inference framework leveraging agentic testing and probabilistic proofs, with no computational overhead, using a JIT design pattern and caching system.
+- **DPO-Based Ranking** - Implemented ranking profiles using Reinforcement Learning benchmarking DPO, Group Relative Policy Optimization (GRPO) and Reinforcement Learned Teache (RLT).
 
 #### [Nobitex](https://github.com/nobitex) - Data Science & Finance
-- **Customer Clustering at Scale** - Developed scalable, ensemble tree-based algorithm leveraging Spark for processing 4M+ customer transactions, driving MAU growth to 8.5M within one year
-- **Chain Fraud Detection Dashboard** - Built real-time pipeline and analytics dashboard for blockchain transaction monitoring
-- **Marketing Data Pipeline** - Led cross-team collaboration to design an end-to-end Marketing Data Modeling ETL Pipeline with ERD system design
+- **Customer Clustering at Scale** - Developed scalable, ensemble tree-based algorithm leveraging Spark to process 4M+ customer transactions, driving MAU growth to 8.5M within one year.
+- **Chain Fraud Detection Dashboard** - Built a real-time pipeline and analytics dashboard for blockchain transaction monitoring.
+- **Marketing Data Pipeline** -Led cross-team collaboration to design an end-to-end marketing data modeling ETL pipeline with ERD system design, migrating the legacy data warehouse from Django.
 
 #### [SnappMarket](https://github.com/snappmarket) - Retail Tech & Optimization
-- **Autonomous Inventory System** - Developed scalable inventory reordering system for 15 hypermarkets with +8,000 SKUs
-- **Automated Shopping Experience** - Contributed to a $100M funded project for a fully automated shopping experience (Low-Cost Amazon Go), implementing indoor location tracking in collaboration with Rocket Internet
-- **Operational Analytics** - Established real-time operational KPIs with automated reporting systems, ensuring data accuracy and driving strategic decisions
+- **Autonomous Inventory System** - Developed scalable inventory reordering system for 15 hypermarkets with 8,000+ SKUs.
+- **Automated Shopping Experience** - Contributed to a $100M funded project for a fully automated shopping experience (Low-Cost Amazon Go), implementing indoor location tracking in collaboration with Rocket Internet.
+- **Operational Analytics** - Established real-time operational KPIs with automated reporting systems, ensuring data accuracy and driving strategic decisions.
 
 ### Socials
 
